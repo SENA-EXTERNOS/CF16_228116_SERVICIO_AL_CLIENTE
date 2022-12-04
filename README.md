@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Mantenimiento del hardware y software**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF16_228116_MANTENIMIENTO_HARDWARE_SOFTWARE/#/](https://sena-externos.github.io/CF16_228116_MANTENIMIENTO_HARDWARE_SOFTWARE/#/)
 
 #
 
