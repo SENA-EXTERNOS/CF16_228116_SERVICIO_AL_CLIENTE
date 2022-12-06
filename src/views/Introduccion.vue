@@ -17,7 +17,7 @@
           strong Se invita a explorar con atención el siguiente video que lo introducirá en el manejo a los clientes antes y después de adquirir algún producto de tecnología en cualquier empresa.
 
       .col-lg-3
-        img(src='@/assets/curso/temas/tema_1/img_1.png', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/temas/tema_1/img_1.svg', alt='Texto que describa la imagen')
 
     figure(data-aos="zoom-in")
       .video

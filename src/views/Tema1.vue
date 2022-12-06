@@ -10,7 +10,7 @@
     .fondo-1.p-5
       .row.align-items-center(data-aos="fade-up")
         .col-lg-3.mb-4.mb-md-0
-          img(src='@/assets/curso/temas/tema_1/img_3.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema_1/img_3.svg', alt='Texto que describa la imagen')
         .col-lg-8
           p Es la persona que recibe los servicios de quien los presta, a cambio de un pago. Por esta razón, los compradores quieren manejar sus pedidos con cuidado. Existen distintos tipos de clientes, dependiendo de la compra o servicio que se les preste.
 
@@ -24,7 +24,7 @@
           .p-3.text-small
             p.mb-0 Identifica todas las acciones que los clientes realizan antes y después del proceso de compra. También se atribuye a la aprobación de un producto o servicio. No es únicamente cuando los clientes adquieren el producto, sino que sucede antes, durante y después de la adquisición del producto o servicio. Además, un buen servicio al cliente no solo responde las preguntas del comprador, los apoya, aunque no soliciten su ayuda, atiende sus requerimientos y, satisfacen sus necesidades de manera efectiva. Asimismo, hay otros aspectos como la amabilidad, la calidad y el calor humano, que también afectarán el servicio prestado.
         .col-lg-3.h-100.d-flex
-          img(src='@/assets/curso/temas/tema_1/img_4.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema_1/img_4.svg', alt='Texto que describa la imagen')
 
 
     separador

@@ -9,12 +9,23 @@
 
     p.mb-5 Es un método que utilizan las empresas para averiguar cómo se sienten sus clientes acerca de sus servicios y recopilar comentarios sobre su satisfacción para que puedan mejorar.
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-3.p-md-4.mb-5
-      .bloque-texto-g__img.m-left(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_1.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p La satisfacción del cliente es fundamental para cualquier empresa, independientemente del tipo de negocio. De hecho, una mala experiencia de servicio hace que el 90% de los consumidores terminen su relación con una organización. Medir el servicio al cliente proporciona un punto de referencia que impulsa la prestación óptima del servicio, la lealtad y, en última instancia, el crecimiento y la rentabilidad de la marca. Hay muchas formas de medir el servicio, estas deben aplicarse teniendo en cuenta las necesidades y preferencias del cliente y las particularidades de cada empresa. #[.text_col En la medición del servicio al cliente se aplican una variedad de métodos para impulsar su negocio, incluidos Mystery Shopper, Training, QuarteR y Rate Now]. Además, a medida que se esfuerzan por crear una experiencia de servicio única, se han implementado una variedad de métodos para ayudar a medir y mejorar la satisfacción del cliente, incluyendo el análisis de la competencia, el diseño del modelo de servicio, las aplicaciones de investigación de mercado y las encuestas.
+    .row.justify-content-center.mb-5.d-none.d-lg-block
+      .col-lg-12
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-3.p-md-4.mb-5
+          .bloque-texto-g__img.m-left(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_1.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p La satisfacción del cliente es fundamental para cualquier empresa, independientemente del tipo de negocio. De hecho, una mala experiencia de servicio hace que el 90% de los consumidores terminen su relación con una organización. Medir el servicio al cliente proporciona un punto de referencia que impulsa la prestación óptima del servicio, la lealtad y, en última instancia, el crecimiento y la rentabilidad de la marca. Hay muchas formas de medir el servicio, estas deben aplicarse teniendo en cuenta las necesidades y preferencias del cliente y las particularidades de cada empresa. #[.text_col En la medición del servicio al cliente se aplican una variedad de métodos para impulsar su negocio, incluidos Mystery Shopper, Training, QuarteR y Rate Now]. Además, a medida que se esfuerzan por crear una experiencia de servicio única, se han implementado una variedad de métodos para ayudar a medir y mejorar la satisfacción del cliente, incluyendo el análisis de la competencia, el diseño del modelo de servicio, las aplicaciones de investigación de mercado y las encuestas.
+
+    .row.justify-content-center.mb-5.d-block.d-lg-none
+      .col-lg-12
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_1.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0  La satisfacción del cliente es fundamental para cualquier empresa, independientemente del tipo de negocio. De hecho, una mala experiencia de servicio hace que el 90% de los consumidores terminen su relación con una organización. Medir el servicio al cliente proporciona un punto de referencia que impulsa la prestación óptima del servicio, la lealtad y, en última instancia, el crecimiento y la rentabilidad de la marca. Hay muchas formas de medir el servicio, estas deben aplicarse teniendo en cuenta las necesidades y preferencias del cliente y las particularidades de cada empresa. #[.text_col En la medición del servicio al cliente se aplican una variedad de métodos para impulsar su negocio, incluidos Mystery Shopper, Training, QuarteR y Rate Now]. Además, a medida que se esfuerzan por crear una experiencia de servicio única, se han implementado una variedad de métodos para ayudar a medir y mejorar la satisfacción del cliente, incluyendo el análisis de la competencia, el diseño del modelo de servicio, las aplicaciones de investigación de mercado y las encuestas.  
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido
