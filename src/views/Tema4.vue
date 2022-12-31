@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Diagramas
+      h1 Manual
 
     .row.align-items-center.mb-5
       .col-lg-3.mb-4.mb-md-0

@@ -11,7 +11,7 @@
 
     img.img-a.mb-5(src='@/assets/curso/temas/tema_3/img_1.svg', alt='Texto que describa la imagen')(data-aos="fade-down-right")
 
-    p.mb-5(data-aos="fade-down-left") Se utilizan en educación, medios y otros campos y, a menudo, consisten en pequeños cuadros, globos y flechas que conectan partes para formar un todo. Es un mapa visual que muestra cómo interactúan los componentes de una infraestructura tecnológica, tanto interna como externamente. Normalmente, este mapeo incluye puntos de acceso, sistemas, aplicaciones, redes, bases de datos, máquinas virtuales, contenedores y cualquier medida de seguridad ya implementada en la infraestructura, como la virtual private cloud (VPC) o parte de la red, virtual private network (VPN), web application firewall (WAF), firewall.
+    p.mb-5(data-aos="fade-down-left") Se utilizan en educación, medios y otros campos y, a menudo, consisten en pequeños cuadros, globos y flechas que conectan partes para formar un todo. Es un mapa visual que muestra cómo interactúan los componentes de una infraestructura tecnológica, tanto interna como externamente. Normalmente, este mapeo incluye puntos de acceso, sistemas, aplicaciones, redes, bases de datos, máquinas virtuales, contenedores y cualquier medida de seguridad ya implementada en la infraestructura, como la virtual <em>private cloud</em> (VPC) o parte de la red, virtual <em>private network</em> (VPN), web <em>application firewall</em> (WAF), firewall.
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
@@ -20,7 +20,7 @@
     .row.mb-5
       .col-lg-7.mb-4.mb-md-0.text-small(data-aos="fade-right")
         .cajon.color-primario.mb-4.p-4
-          p Es la representación de varios elementos de un sistema que pueden contribuir a un problema. Debido a que se parece al esqueleto de un pez, también se le llama Ishikawa o espina de pescado. Es una herramienta efectiva para estudiar procesos, situaciones y para desarrollar un plan de recolección de datos. Se utilizan para identificar las posibles causas en particular. La naturaleza gráfica de estos permite que los equipos organicen grandes cantidades de información sobre una situación e identifiquen los posibles orígenes. En última instancia, aumenta la probabilidad de identificar las fundamentales. Los diagramas de causa y efecto deben usarse cuando pueda responder “sí” a una o ambas de las siguientes preguntas:
+          p Es la representación de varios elementos de un sistema que pueden contribuir a un problema. Debido a que se parece al esqueleto de un pez, también se le llama <em>Ishikawa</em> o espina de pescado. Es una herramienta efectiva para estudiar procesos, situaciones y para desarrollar un plan de recolección de datos. Se utilizan para identificar las posibles causas en particular. La naturaleza gráfica de estos permite que los equipos organicen grandes cantidades de información sobre una situación e identifiquen los posibles orígenes. En última instancia, aumenta la probabilidad de identificar las fundamentales. Los diagramas de causa y efecto deben usarse cuando pueda responder “sí” a una o ambas de las siguientes preguntas:
           ul.lista-ul--color.mb-0
             li 
               span.lista-ul__vineta
@@ -74,22 +74,16 @@
         .bg_3
           TabsA.color-secundario.mb-5
             .tarjeta.tarj-bg_2.p-4(titulo="Procesos o <br>actividades")
-              h4 Procesos o actividades
               p.mb-0 Se representan como rectángulos y representan actividades en un proceso empresarial. Quizás los elementos más importantes de un diagrama de flujo son aquellos que siempre están presentes y, por lo tanto, deben definirse de manera clara y concisa. Debe ser definido por un verbo y un sustantivo. Por ejemplo: escribir un nuevo informe para que lo vean los accionistas del grupo.
             .tarjeta.tarj-bg_2.p-4.tb(titulo="Subprocesos")
-              h4 Subprocesos
               p.mb-0 Se representan como un rectángulo con rayas dobles a cada lado, por lo tanto, a menudo forman parte de tareas más complejas para asignar tareas más simples a los diagramas de flujo.
             .tarjeta.tarj-bg_2.p-4.tb_1(titulo="Nodos de <br>decisión")
-              h4 Nodos de decisión
               p.mb-0 Estos están representados por diamantes y son nodos en el cual el árbol va en una dirección según la respuesta. Suelen responder con una decisión de “sí” o “no”.
             .tarjeta.tarj-bg_2.p-4.tb_2(titulo="Conectores")
-              h4 Conectores
               p.mb-0 Gráficamente, están conectados por pequeños círculos o cuadrados marcados con letras. Esto garantiza que todos los procesos estén conectados de forma lógica y precisa en varias páginas.
             .tarjeta.tarj-bg_2.p-4.tb_3(titulo="Líneas de flecha")
-              h4 Líneas de flecha
               p.mb-0 Su función es mantener la coherencia y la claridad en la visión general del proceso. Se dibujan en una u otra dirección y normalmente representan el camino por el que fluye el diagrama.
             .tarjeta.tarj-bg_2.p-4.tb_4(titulo="Terminadores")
-              h4 Terminadores
               p.mb-0 Están representados por rectángulos con esquinas curvas. Aparecen al principio y al final del diagrama de enrutamiento e indican el final del diagrama.
       .col-lg-4
         img(src='@/assets/curso/temas/tema_3/img_6.png', alt='Texto que describa la imagen')

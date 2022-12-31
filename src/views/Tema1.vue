@@ -40,12 +40,12 @@
         .col-lg-8(data-aos="fade-right")
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             div(titulo="Soporte nivel 1")
-              p.mb-0 También llamado help desk o mesa de ayuda. Es el responsable de recibir una cantidad de casos y reunir la mayor cantidad de información sobre lo ocurrido. En este punto se determina la raíz del problema y, en caso de no resolverlo, se manda al técnico adecuado. 
+              p.mb-0 También llamado <em>help desk</em> o mesa de ayuda. Es el responsable de recibir una cantidad de casos y reunir la mayor cantidad de información sobre lo ocurrido. En este punto se determina la raíz del problema y, en caso de no resolverlo, se manda al técnico adecuado. 
             div(titulo="Soporte nivel 2")
-              p Es el service desk o mesa de servicio (soporte técnico). Se encarga de las tareas a resolver y diagnosticar problemas más complejos que no se solucionaron en la mesa de ayuda. 
+              p Es el <em>service desk</em> o mesa de servicio (soporte técnico). Se encarga de las tareas a resolver y diagnosticar problemas más complejos que no se solucionaron en la mesa de ayuda. 
               p.mb-0 Proporciona asistencia en temas especializados. Quienes realizan este tipo de soportes tienen por lo menos un año de experiencia en la mesa de ayuda y son profesionales en los temas de software, redes de comunicación y bases de datos. 
             div(titulo="Soporte nivel 3")
-              p.mb-0 Es el soporte de back-end y su responsabilidad es dar solución a problemas que requieren de un trabajo minucioso y más especializado, desde la configuración del software y la asistencia técnica en la instalación, hasta la puesta en marcha de nuevas instalaciones del producto y correcciones de fallas del sistema. Este soporte incluye a proveedores, fabricantes de hardware y software, así como a profesionales externos.
+              p.mb-0 Es el soporte de <em>back-end</em> y su responsabilidad es dar solución a problemas que requieren de un trabajo minucioso y más especializado, desde la configuración del <em>software</em> y la asistencia técnica en la instalación, hasta la puesta en marcha de nuevas instalaciones del producto y correcciones de fallas del sistema. Este soporte incluye a proveedores, fabricantes de <em>hardware</em> y <em>software</em>, así como a profesionales externos.
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
@@ -58,22 +58,16 @@
         .bg_1
           TabsA.color-primario.mb-5
             .tarjeta.tarj-bg_2.p-4(titulo="Informes de <br>atención")
-              h4 Informes de atención
               p.mb-0 El trabajo principal de la mesa de ayuda es obtener informes de los clientes y su producto o servicio. Con ayuda de la plataforma, se registra al cliente en un ticket con el asunto del pedido. Lo mejor es darle una solución instantánea. Si esto no es posible, lo ayudará a rastrear su estado a tiempo.
             .tarjeta.tarj-bg_2.p-4.tb(titulo="Capacitación y <br>recomendaciones")
-              h4 Capacitación y recomendaciones
               p.mb-0 Una opción muy efectiva para aclarar las dudas de los clientes sobre el producto o servicio. En este punto se crea contenido a modo de guía para su correcto uso u operación. Esto puede ser a través de folletos, videos instructivos, tutoriales, artículos instructivos o cualquier otro material explicativo.
             .tarjeta.tarj-bg_2.p-4.tb_1(titulo="Soporte técnico")
-              h4 Soporte técnico
               p.mb-0 En este campo, es fundamental contar con personal capacitado para dar soluciones concisas a las fallas técnicas que puedan presentarse. Lo proporciona una empresa para permitir que sus clientes utilicen sus productos y servicios de la manera en que se ofrecen para la venta. El soporte técnico tiene como objetivo ayudar a los usuarios a resolver problemas específicos. La atención se brinda por teléfono, internet y, en algunos casos, visitas del personal a la casa del cliente. Puede ayudar a resolver errores de programación de software o fallas de instalación de hardware de forma remota. En general, es importante señalar que la atención que brinda el soporte técnico no suele incluir la capacitación o educación de los usuarios. Esto significa que, si llama al soporte técnico porque no sabe cómo usar el servicio, lo más probable es que el personal de soporte lo redirija a otra ubicación y no lo capacite. Por este motivo, muchas empresas cuentan con dos áreas diferenciadas de soporte técnico y capacitación.
             .tarjeta.tarj-bg_2.p-4.tb_2(titulo="Call center")
-              h4 Call center
               p.mb-0 En algunos casos, la atención al cliente requiere más contacto presencial, por lo que la mesa de ayuda también cuenta con una línea telefónica para atender las consultas y reclamos de los clientes de manera personal y profesional.
             .tarjeta.tarj-bg_2.p-4.tb_3(titulo="Blog")
-              h4 Blog
               p.mb-0 Es la mesa de ayuda que también sirve como base de conocimientos, en la cual, los clientes pueden encontrar artículos relacionados con las preguntas más frecuentes; Así no se tendrá que consultar por otros medios y se ahorrará tiempo a los empleados.
             .tarjeta.tarj-bg_2.p-4.tb_4(titulo="Comunidad")
-              h4 Comunidad
               p.mb-0 Las comunidades de mesa de ayuda permiten a los usuarios interactuar o leer a otros clientes de la marca que tienen las mismas dudas o contratiempos que ellos. Las respuestas dadas por los mismos usuarios serán útiles para otros. Siempre que esta información provenga de la experiencia con el producto, es bastante confiable.
 
 
