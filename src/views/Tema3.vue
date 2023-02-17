@@ -7,20 +7,20 @@
         span 3
       h1 Diagramas
 
-    p.mb-5 Un diagrama es una tabla simplificada que representa información sobre un proceso o sistema. Puede ser simple o complejo, con pocos o muchos elementos. Este es un completo resumen que ayudará a conocer e interpretar la información de una forma sencilla e intuitiva, con distintos tipos, conceptos, resúmenes, entre otros, dependiendo de las necesidades de comunicación y de lo que esté estudiando.
+    p.mb-5 Un diagrama es una tabla simplificada que representa información sobre un proceso o sistema. Puede ser simple o complejo, con pocos o muchos elementos. Observe un ejemplo a continuación, de lo que es un completo resumen que ayudará a conocer e interpretar la información de una forma sencilla e intuitiva, con distintos tipos, conceptos, resúmenes, entre otros, dependiendo de las necesidades de comunicación y de lo que esté estudiando.
 
     img.img-a.mb-5(src='@/assets/curso/temas/tema_3/img_1.svg', alt='Texto que describa la imagen')(data-aos="fade-down-right")
 
-    p.mb-5(data-aos="fade-down-left") Se utilizan en educación, medios y otros campos y, a menudo, consisten en pequeños cuadros, globos y flechas que conectan partes para formar un todo. Es un mapa visual que muestra cómo interactúan los componentes de una infraestructura tecnológica, tanto interna como externamente. Normalmente, este mapeo incluye puntos de acceso, sistemas, aplicaciones, redes, bases de datos, máquinas virtuales, contenedores y cualquier medida de seguridad ya implementada en la infraestructura, como la virtual <em>private cloud</em> (VPC) o parte de la red, virtual <em>private network</em> (VPN), web <em>application firewall</em> (WAF), firewall.
+    p(data-aos="fade-down-left") Se utilizan en educación, medios y otros campos y, a menudo, consisten en pequeños cuadros, globos y flechas que conectan partes para formar un todo. Es un mapa visual que muestra cómo interactúan los componentes de una infraestructura tecnológica, tanto interna como externamente. Normalmente, este mapeo incluye puntos de acceso, sistemas, aplicaciones, redes, bases de datos, máquinas virtuales, contenedores y cualquier medida de seguridad ya implementada en la infraestructura, como la virtual <i>private cloud </i>(VPC) o parte de la red, <i>virtual private network</i> (VPN), <i>web application firewall</i> (WAF), <i>firewall</i>.
 
-    separador
-    #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.1 Diagramas causas
+    p.mb-5(data-aos="fade-down-left") Existen muchos tipos de diagramas, sus características dependen, como se dijo, del requerimiento de uso o el objetivo para el cual se cree. Examinemos los más representativos.
+
+    h3 Diagramas causa y efecto
 
     .row.mb-5
-      .col-lg-7.mb-4.mb-md-0.text-small(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
         .cajon.color-primario.mb-4.p-4
-          p Es la representación de varios elementos de un sistema que pueden contribuir a un problema. Debido a que se parece al esqueleto de un pez, también se le llama <em>Ishikawa</em> o espina de pescado. Es una herramienta efectiva para estudiar procesos, situaciones y para desarrollar un plan de recolección de datos. Se utilizan para identificar las posibles causas en particular. La naturaleza gráfica de estos permite que los equipos organicen grandes cantidades de información sobre una situación e identifiquen los posibles orígenes. En última instancia, aumenta la probabilidad de identificar las fundamentales. Los diagramas de causa y efecto deben usarse cuando pueda responder “sí” a una o ambas de las siguientes preguntas:
+          p Es la representación de varios elementos de un sistema que pueden contribuir a un problema. Debido a que se parece al esqueleto de un pez, también se le llama <i>Ishikawa</i> o espina de pescado. Es una herramienta efectiva para estudiar procesos, situaciones y para desarrollar un plan de recolección de datos. Se utilizan para identificar las posibles causas de algún caso particular. La naturaleza gráfica de estos permite que los equipos organicen grandes cantidades de información sobre una situación e identifiquen los posibles orígenes. En última instancia, aumenta la probabilidad de identificar las causas fundamentales. Los diagramas de causa y efecto deben usarse cuando pueda responder "sí" a una o ambas de las siguientes preguntas:
           ul.lista-ul--color.mb-0
             li 
               span.lista-ul__vineta
@@ -31,11 +31,9 @@
       .col-lg-5(data-aos="fade-left")
         img.img-a(src='@/assets/curso/temas/tema_3/img_2.png', alt='Texto que describa la imagen')
 
-    separador
-    #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2 Diagramas de soluciones
+    h3 Diagramas de soluciones
 
-    p.mb-5 Este esquema proporciona una gran orientación para la solución planificada y el logro de los objetivos del contrato arquitectónico.
+    p.mb-5 Este esquema se enfoca principalmente en la solución y el logro de los objetivos, planificando la solución o resultado esperado, como se presentan, por ejemplo, en los contratos arquitectónicos.
 
     img.img-a.mb-5(src='@/assets/curso/temas/tema_3/img_3.svg', alt='Texto que describa la imagen')
 
@@ -44,39 +42,37 @@
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      
 
     .row.mb-5
       .col-lg-4.mb-4.mb-md-0
         .cajon.color-primario.mb-4.p-4
-          p Diagramas de flujo: 
+          p Diagramas de flujo
           p.mb-0 Muestra un proceso, sistema o algoritmo informático. Se utilizan ampliamente en muchos campos para documentar, revisar, planificar, mejorar y, a menudo, comunicar procesos complejos en diagramas claros y fáciles de entender. Usan rectángulos, óvalos, rombos y muchas otras formas para definir tipos de pasos con flechas de enlace que definen el flujo y la secuencia. Estos pueden variar, desde diagramas simples dibujados a mano hasta diagramas complejos generados por computadora, que describen múltiples pasos y caminos.
       .col-lg-8
         img.img-a(src='@/assets/curso/temas/tema_3/img_4.svg', alt='Texto que describa la imagen')
 
-    p
-      strong Elementos de un diagrama de flujo:
+    h4 Elementos de un diagrama de flujo:
 
-    p.mb-5 Los analistas de sistemas suelen utilizar diagramas de flujo para visualizar las cadenas de procesos en los sistemas empresariales. Son herramientas útiles para desarrollar sistemas comerciales efectivos, así como para solucionar problemas o mejorar los existentes. Estos constan de elementos tipo símbolos, como los finales, de proceso, de subproceso, de decisión, flechas y conectores.
+    p.mb-5 Los analistas de sistemas suelen utilizar diagramas de flujo para visualizar las cadenas de procesos en los sistemas empresariales. Son herramientas útiles para desarrollar sistemas comerciales efectivos, así como para solucionar problemas o mejorar los existentes. Estos se componen de elementos tipo símbolos y tienen una función determinada como final, proceso, subproceso, decisión, flechas y conectores:
 
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-11
         img.img-a(src='@/assets/curso/temas/tema_3/img_5.svg', alt='Texto que describa la imagen')
 
-    p
-      strong Diagrama de proceso: 
+    h4 Diagrama de proceso: 
 
-    p.mb-0   Es una representación gráfica de los procesos más importantes que tienen lugar en la empresa, su disposición e interrelaciones, muestra la secuencia e interacción de los pasos con la ayuda de símbolos gráficos que brindan una mejor visualización de este. Ayudan a comprender y hacen que la descripción sea más clara e intuitiva. Como resultado, el plan de proceso es una herramienta importante para analizar y comprender aspectos para aumentar la productividad de los empleados y, generalmente puede descubrir el flujo de trabajo en sí. En resumen, es una herramienta que ayuda a una gestión empresarial más completa 
-    p.mb-5 Algunos de los diagramas de flujo de gestión de proyectos más populares son los diagramas de Gantt y PERT. Ambos te permiten planificar y programar tareas y proyectos de una forma muy sencilla e intuitiva. A continuación, se explorarán los elementos básicos que contiene un diagrama de procesos:
-
+    p Es una representación gráfica de los procesos más importantes que tienen lugar en la empresa, su disposición e interrelaciones. Muestra la secuencia e interacción de los pasos con la ayuda de símbolos gráficos que brindan una mejor visualización de este; ayudan a comprender y hacen que la descripción sea más clara e intuitiva. Como resultado, el plan de proceso es una herramienta importante para analizar y comprender aspectos para aumentar la productividad de los empleados y, generalmente puede descubrir el flujo de trabajo en sí. En resumen, es una herramienta que ayuda a una gestión empresarial más completa. 
+    p Algunos de los diagramas de flujo de gestión de proyectos más populares son los diagramas de Gantt y PERT. Ambos te permiten planificar y programar tareas y proyectos de una forma muy sencilla e intuitiva.
+    p.mb-5 A continuación, se explorarán los elementos básicos que contiene un diagrama de procesos: 
     .row
       .col-lg-8.mb-4.mb-md-0
         .bg_3
           TabsA.color-secundario.mb-5
             .tarjeta.tarj-bg_2.p-4(titulo="Procesos o <br>actividades")
-              p.mb-0 Se representan como rectángulos y representan actividades en un proceso empresarial. Quizás los elementos más importantes de un diagrama de flujo son aquellos que siempre están presentes y, por lo tanto, deben definirse de manera clara y concisa. Debe ser definido por un verbo y un sustantivo. Por ejemplo: escribir un nuevo informe para que lo vean los accionistas del grupo.
+              p.mb-0 Se representan con rectángulos y simbolizan actividades en un proceso empresarial. Son, quizás, los elementos más importantes de un diagrama de flujo, son aquellos que siempre están presentes y, por lo tanto, deben definirse de manera clara y concisa. Debe ser redactado con un verbo y un sustantivo, por ejemplo: escribir un nuevo informe para que lo vean los accionistas del grupo.
             .tarjeta.tarj-bg_2.p-4.tb(titulo="Subprocesos")
-              p.mb-0 Se representan como un rectángulo con rayas dobles a cada lado, por lo tanto, a menudo forman parte de tareas más complejas para asignar tareas más simples a los diagramas de flujo.
+              p.mb-0 Se representan como un rectángulo con rayas dobles a cada lado, por lo tanto, a menudo forman parte de tareas más complejas, con el fin de asignar tareas más simples a los diagramas de flujo.
             .tarjeta.tarj-bg_2.p-4.tb_1(titulo="Nodos de <br>decisión")
               p.mb-0 Estos están representados por diamantes y son nodos en el cual el árbol va en una dirección según la respuesta. Suelen responder con una decisión de “sí” o “no”.
             .tarjeta.tarj-bg_2.p-4.tb_2(titulo="Conectores")

@@ -10,8 +10,8 @@
             img(src="@/assets/template/completar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-primario
-          h2 Completar la frase
-        p.mb-4 Todo lo que tiene que ver con el servicio al cliente.
+          h2 Servicio al cliente
+        p.mb-4 La siguiente actividad didáctica le permitirá comprobar algunos conocimientos adquiridos en el estudio del componente formativo. A continuación, encontrará conceptos que debe completar.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

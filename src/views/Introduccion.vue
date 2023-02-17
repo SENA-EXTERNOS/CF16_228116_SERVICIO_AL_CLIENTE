@@ -11,10 +11,10 @@
 
     .row.mb-5
       .col-lg-9.mb-4.mb-md-0
-        p Estimado Aprendiz. Cuando se habla de mantenimiento del hardware y software, también se debe de hablar de clientes ya que se suele referir únicamente a empresas o personas que utilizan o adquieren un producto o servicio, de forma habitual u ocasional. Generalmente las empresas de informática brindan soporte técnico a sus usuarios. La atención es prestada por diferentes medios como internet, teléfono, o si el usuario lo requiere, se realiza una visita domiciliaria por parte del personal de servicio técnico. La mesa de ayuda puede apoyar en la corrección de errores de programación de software y fallas de instalación de hardware de forma remota. Se debe tener en cuenta que la atención brindada por la mesa de ayuda generalmente no incluye formación o capacitación para el usuario. Esto significa que, si llama a la mesa de ayuda porque no sabe cómo usar el servicio, es muy probable que la persona lo direccione a otra área. Debido a esto, muchas empresas tienen dos áreas bien diferenciadas: mesa de ayuda y zona de formación.
+        p Estimado aprendiz, en este componente formativo se hablará sobre el mantenimiento del hardware y el software y su relación con los clientes, que son las empresas o personas que utilizan o adquieren un producto o servicio, de forma habitual u ocasional, se abordará el tema del soporte técnico a los usuarios y a partir de eso se desarrollará el tema de la mesa de ayuda como apoyo en la corrección de errores de programación de software y fallas de instalación de hardware. Además, se explorará la importancia de la medición y los diagramas como método para revisar la relación de la empresa con sus clientes, evaluar el grado de satisfacción, estudiar procesos y, también, interpretar información recopilada.
 
         p
-          strong Se invita a explorar con atención el siguiente video que lo introducirá en el manejo a los clientes antes y después de adquirir algún producto de tecnología en cualquier empresa.
+          strong En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
       .col-lg-3
         img(src='@/assets/curso/temas/tema_1/img_1.svg', alt='Texto que describa la imagen')
@@ -22,7 +22,7 @@
     figure(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      
     
 </template>
 

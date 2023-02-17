@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 A partir del componente formativo, se tendrá claridad sobre los conceptos necesarios para llevar a cabo el proceso de servicio al cliente.
+    p.mb-5 El siguiente mapa integra los conceptos más relevantes de la información expresada en el presente componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5

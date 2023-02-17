@@ -1,1 +1,1 @@
-module.exports = 'Mantenimiento del hardware y software'
+module.exports = 'Servicio al cliente'

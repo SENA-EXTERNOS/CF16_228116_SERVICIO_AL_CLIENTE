@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Mantenimiento del hardware y software',
+    componenteFormativo: 'Servicio al cliente',
     descripcionCurso:
       'Este componente formativo está pensado en el manejo que se le debe de dar a los clientes antes y después de la adquisición de cualquier producto de tecnología que la empresa venda.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
@@ -47,26 +47,6 @@ export default {
         numero: '1',
         titulo: 'Cliente',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Atención al cliente',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Clasificación de mesa de ayuda',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Metodología mesa de ayuda',
-            hash: 't_1_3',
-          },
-        ],
       },
 
       {
@@ -75,20 +55,6 @@ export default {
         numero: '2',
         titulo: 'Medición',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Tipo de instrumentos de medición',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Clasificación de instrumentos de medición',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -96,26 +62,12 @@ export default {
         numero: '3',
         titulo: 'Diagramas',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Diagramas causas',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Diagramas de soluciones',
-            hash: 't_3_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Manual',
+        titulo: 'Manuales',
         desarrolloContenidos: true,
       },
     ],
@@ -163,21 +115,21 @@ export default {
     {
       tema: 'Servicio al cliente',
       referencia:
-        'Arismendy A. (27 de abril de 2017). Claves de la Atención y del Servicio al cliente. [Archivo de video]. YouTube',
+        'Arismendy A. (27 de abril de 2017). <i>Claves de la Atención y del Servicio al cliente</i>. [Archivo de video]. YouTube',
       tipo: 'Video',
       link: 'https://youtu.be/gIxRkx2IH3E',
     },
     {
       tema: 'Atención y servicio al cliente',
       referencia:
-        'Grupo Proikos (24 de junio de 2015) Atención y Servicio al Cliente. [Archivo de vídeo] YouTube. ',
+        'Grupo Proikos (24 de junio de 2015) <i>Atención y Servicio al Cliente</i>. [Archivo de vídeo] YouTube. ',
       tipo: 'Video',
       link: 'https://youtu.be/5xGoNUkHpZQ',
     },
     {
       tema: 'Como Dar Soporte Técnico Online a una PC - [Servicio Real].',
       referencia:
-        'VillaTec (18 de marzo de 2017) Como Dar Soporte Técnico Online a una PC - [Servicio Real]. [Archivo de vídeo]. YouTube.',
+        'VillaTec (18 de marzo de 2017) <i>Como Dar Soporte Técnico Online a una PC </i>- [Servicio Real]. [Archivo de vídeo]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/Pzr8n7dNgE0',
     },
@@ -237,52 +189,52 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Arandasoft (2021). https://arandasoft.com. Obtenido de',
+      referencia:
+        'Arandasoft (2021). <i>La función de una Mesa de Ayuda dentro de la organización</i>. Aranda Software.',
       link:
         'https://arandasoft.com/blog/la-funcion-de-una-mesa-de-ayuda-dentro-de-la-organizacion/',
     },
     {
       referencia:
-        'B2chat. (4 de mayo de 2021). https://www.b2chat.io. Obtenido de',
+        'Quiroz, Angie. (4 de mayo de 2022). <i>Servicio al cliente: ¿Qué es y para qué sirve en tu empresa?</i> B2chat.',
       link:
         'https://www.b2chat.io/blog/servicio-al-cliente/servicio-al-cliente-que-es-para-que-sirve/',
     },
     {
       referencia:
-        'Digital, V. (julio de 2016). https://www.mintic.gov.co. Obtenido de',
+        'Mintic. (julio de 2016). <i>Modelo de gestión it4+</i>. Ministerio de las TIC.',
       link:
         'https://www.mintic.gov.co/arquitecturati/630/propertyvalues-8170_documento_pdf.pdf',
     },
 
     {
-      referencia:
-        'http://www.cyta.com.ar/biblioteca/bddoc/bdlibros/herramientas_calidad/causaefecto.htm#:~:text=El%20Diagrama%20de%20Causa%20y,determinar%20exactamente%20las%20posibles%20causas.',
+      referencia: 'Cyta. <i>Diagrama de Causa y Efecto</i>. Cyta.com. ',
       link:
         'http://www.cyta.com.ar/biblioteca/bddoc/bdlibros/herramientas_calidad/causaefecto.htm#:~:text=El%20Diagrama%20de%20Causa%20y,determinar%20exactamente%20las%20posibles%20causas.',
     },
     {
       referencia:
-        'Kotler Philip, Armstrong Gary, Cámara Dionisio y Cruz Ignacio, Marketing, Prentice Hall, 2004, Pág. 43.',
+        'Kotler Philip, Armstrong Gary, Cámara Dionisio y Cruz Ignacio. (2004). <i>Marketing</i> (Pág. 43). Prentice Hall',
     },
     {
       referencia:
-        'Oracle. (2022). Página web institucional. Consultado el 21 de noviembre de 2022. Recuperado de: https://www.oracle.com. Obtenido de',
+        'Oracle. (2022). Página web institucional. <i>¿Qué es un WAF?</i> https://www.oracle.com.',
       link: 'https://www.oracle.com/es/database/security/que-es-un-waf.html',
     },
 
     {
       referencia:
-        'Pérez Sánchez, Fernando A. Conferencia Internacional de Ciencias Empresariales - La filosofía del servicio al cliente orientada a Latinoamérica. Colombia: INPEFRA Ingenieros.',
+        'Pérez Sánchez, Fernando A. Conferencia Internacional de Ciencias Empresariales - <i>La filosofía del servicio al cliente orientada a Latinoamérica</i>. Colombia: INPEFRA Ingenieros.',
     },
     {
       referencia:
-        'POWERDATA. (2022). Página web empresarial. Consultado el 21 de noviembre de 2022. Recuperado de:',
+        'POWERDATA. (2022). Página web empresarial. Consultado el 21 de noviembre de 2022. Recuperado de: ',
       link: 'https://www.powerdata.es/data-warehouse',
     },
 
     {
       referencia:
-        'Rockcontent. (2022). Página web empresarial. Consultado el 21 de noviembre de 2022. Recuperado de',
+        'Corrales, Juan Andrés. (25 de Julio 2019).<i> Servicio al cliente: ¿qué es y por qué es un pilar de las empresas exitosas?</i>  Rockcontent.',
       link: 'https://rockcontent.com/es/blog/servicio-al-cliente/',
     },
 

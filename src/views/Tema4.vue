@@ -23,7 +23,7 @@
       .tarjeta.tar_color
         .p-4
           h3 Manuales del usuario:
-          p Es un documento que permite a los usuarios de un sistema de información, comprender y utilizar sus funciones. También es una guía de ayuda al usuario final para ejecutar el programa y solucionar los problemas más comunes.
+          p Son documentos que permite a los usuarios de un sistema de información, comprender y utilizar sus funciones. También es una guía de ayuda al usuario final para ejecutar el programa y solucionar los problemas más comunes.
           p.mb-0 Por lo tanto, el manual del usuario es un documento de comunicación técnica para ayudar a quienes utilizan el sistema. Además de la originalidad, los autores del folleto deben intentar encontrar un lenguaje cortés y sencillo para atraer a la mayor cantidad de compradores posible.
     .tarjeta-avatar-b.mb-0
       .tarjeta-avatar-b__img
@@ -33,20 +33,21 @@
           h3 Manuales técnicos: 
           p Son una guía para una audiencia con experiencia técnica en un área temática en particular.
 
-          p La documentación del proyecto es importante para facilitar la identificación de los aspectos y funciones que forman parte del proyecto. La información adecuada le da iniciativa e identidad y originalidad, para que innumerables usuarios puedan comprender más fácilmente las ventajas, desventajas, características, capacidades y funciones, así como los costos y beneficios asociados con el desarrollo del proyecto.
+          p Estos manuales contienen la documentación del proyecto en el que se esté trabajando, esto es importante para facilitar la identificación de los aspectos y funciones que forman parte de él. La información adecuada le da iniciativa, identidad y originalidad, para que innumerables usuarios puedan comprender más fácilmente las ventajas, desventajas, características, capacidades y funciones, así como los costos y beneficios asociados con el desarrollo de cualquier proyecto.
 
-          p.mb-0 Por lo tanto, el manual del usuario es un documento de comunicación técnica para ayudar a quienes utilizan el sistema. Además de la originalidad, los autores del folleto intentaron encontrar un lenguaje cortés y sencillo para atraer a la mayor cantidad de compradores posible. Debido a la complejidad, todos los productos electrónicos o informáticos suelen tener sus propios manuales de usuario. Las cosas más simples (como pelotas o mesas) no necesitan explicaciones para que los consumidores sepan cómo usarlas.
+          p.mb-0 Por lo tanto, el manual técnico es un documento de comunicación técnica para ayudar a quienes utilizan el sistema. Además de la originalidad, los autores del folleto intentan encontrar un lenguaje cortés y sencillo para atraer a la mayor cantidad de compradores posible. Debido a la complejidad, todos los productos electrónicos o informáticos suelen tener sus propios manuales de ténicos. 
+
     .tarjeta-avatar-b.mb-0
       .tarjeta-avatar-b__img
         img(src='@/assets/curso/temas/tema_4/img_4.svg' alt='AvatarTop')
       .tarjeta.tar_color
         .p-4
-          h3 Manuales de fabricante:
-          p Debe elaborarse de cualquier producto, modelo, serie, especificación, entre otros. Es un folleto o libro que describe las características del producto, incluyendo encontrar la mejor manera de trabajar, hacerlo funcionar y mantenerlo en buenas condiciones.
+          h3 Manuales del fabricante: 
+          p Se debe elaborar para cualquier producto, modelo, serie, especificación, entre otros. Es un folleto o libro que describe las características del producto, incluye la mejor manera de manipularlo, cómo hacerlo funcionar y mantenerlo en buenas condiciones.
 
           p La mejor parte es que el manual está hecho por el fabricante del producto, por lo que no tendrá una mejor indicación de cómo usarlo correctamente. Casi todos los electrodomésticos nuevos vienen con un manual del fabricante que brinda instrucciones simples sobre cómo cuidarlos y qué hacer si fallan.
 
-          p.mb-0 Cualquier fabricante bueno y de buena reputación incluirá un manual del fabricante con su producto, lo primero que debe consultar cualquier persona que compre un dispositivo nuevo, de lo contrario, existe el riesgo de error. Estos riesgos llevan a otro riesgo: daño al producto y lo peor, pérdida de la garantía.
+          p.mb-0 Cualquier fabricante bueno y de buena reputación incluirá un manual del fabricante con su producto, es lo primero que debe consultar cualquier persona que compre un dispositivo nuevo, de lo contrario, existe el riesgo de cometer error. Estos riesgos llevan a otro riesgo: daño del producto y pérdida de la garantía por mala manipulación.
     .tarjeta-avatar-b.mb-0
       .tarjeta-avatar-b__img
         img(src='@/assets/curso/temas/tema_4/img_5.svg' alt='AvatarTop')
@@ -71,26 +72,10 @@
             li 
               span.lista-ul__vineta
               | Aspectos arancelarios: Si el producto se acoge a algún tratado de libre comercio (TLC). 
-    .tarjeta-avatar-b.mb-0
-      .tarjeta-avatar-b__img
-        img(src='@/assets/curso/temas/tema_4/img_6.svg' alt='AvatarTop')
-      .tarjeta.tar_color
-        .p-4
-          h3 Manuales técnicos:
-          p Un manual técnico es una hoja de papel doblada que se usa a menudo para empaquetar varios productos, como los electrónicos. Es más probable que esté hablando de un manual del propietario de un automóvil, si el documento es un libro completo con varias páginas.
 
-          p El contenido del manual es puramente técnico y se denomina literatura gris. Estos textos no tienen fines de entretenimiento, pero en este caso explican el funcionamiento del producto, indicando precauciones de uso. También es un texto que no se distribuye a través de los canales editoriales tradicionales. 
-
-          p Incluye muchos elementos visuales y diagramas técnicos para que la operación sea fácil de entender.
-
-          ul.lista-ul--color.mb-0
-            li 
-              span.lista-ul__vineta
-              p <strong>Traducción de manuales técnicos:</strong> no puede ser ignorada, ya que el fabricante es legalmente responsable. Las pruebas que son ininteligibles debido a una traducción incorrecta no se pueden considerar válidas, porque el usuario puede demandarlo por daños y perjuicios debido a un mal uso accidental. Por lo tanto, el famoso “¡Peligro!” debe traducirse correctamente para que se entienda en todos los idiomas. La traducción de manuales es una tarea generalmente asignada a personas profesionales que trabajan en una o más agencias que brindan estos servicios especializados.
 
     .cajon.color-acento-botones.mb-4.p-5.mt-5
-      p.mb-0 #[b Estimado Aprendiz.] Se ha llegado al final de este componente formativo. Se espera que continúe recorriendo este camino lleno de aprendizajes. Recuerde explorar los recursos que se encuentran disponibles. Diríjase al menú principal en el cual encontrará la síntesis del tema abordado, una actividad didáctica, material complementario, entre otros.
-
+      p.mb-0 Estimado aprendiz, ha llegado al final de este componente formativo. Recuerde explorar los demás recursos que se encuentran disponibles en el menú principal como son la síntesis, la actividad didáctica, el material complementario, entre otros.
 
 </template>
 
