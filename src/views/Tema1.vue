@@ -38,7 +38,7 @@
             div(titulo="Soporte nivel 1")
               p.mb-0 También llamado <em>help desk</em> o mesa de ayuda. Es el responsable de recibir una cantidad de casos y reunir la mayor cantidad de información sobre lo ocurrido. En este punto se determina la raíz del problema y, en caso de no resolverlo, se manda al técnico adecuado. 
             div(titulo="Soporte nivel 2")
-              p Es el <i>service desk</i> (mesa de servicio) o soporte técnico. Se encarga de las tareas que se deben resolver y diagnosticar problemas más complejos que no se solucionaron en la mesa de ayuda. 
+              p Es el <i>service desk</i> (mesa de servicio) o soporte técnico. Se encarga de las tareas que se deben resolver y diagnosticar problemas más complejos que no se solucionarón en la mesa de ayuda. 
               p.mb-0 Proporciona asistencia en temas especializados. Quienes realizan este tipo de soportes tienen por lo menos un año de experiencia en la mesa de ayuda y son profesionales en los temas de software, redes de comunicación y bases de datos. 
             div(titulo="Soporte nivel 3")
               p.mb-0 Es el soporte de <em>back-end</em> y su responsabilidad es dar solución a problemas que requieren de un trabajo minucioso y más especializado, desde la configuración del <em>software</em> y la asistencia técnica en la instalación, hasta la puesta en marcha de nuevas instalaciones del producto y correcciones de fallas del sistema. Este soporte incluye a proveedores, fabricantes de <em>hardware</em> y <em>software</em>, así como a profesionales externos.

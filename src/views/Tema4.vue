@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Manual
+      h1 Manuales
 
     .row.align-items-center.mb-5
       .col-lg-3.mb-4.mb-md-0
@@ -23,7 +23,7 @@
       .tarjeta.tar_color
         .p-4
           h3 Manuales del usuario:
-          p Son documentos que permite a los usuarios de un sistema de información, comprender y utilizar sus funciones. También es una guía de ayuda al usuario final para ejecutar el programa y solucionar los problemas más comunes.
+          p Son documentos que permiten a los usuarios de un sistema de información, comprender y utilizar sus funciones. También es una guía de ayuda al usuario final para ejecutar el programa y solucionar los problemas más comunes.
           p.mb-0 Por lo tanto, el manual del usuario es un documento de comunicación técnica para ayudar a quienes utilizan el sistema. Además de la originalidad, los autores del folleto deben intentar encontrar un lenguaje cortés y sencillo para atraer a la mayor cantidad de compradores posible.
     .tarjeta-avatar-b.mb-0
       .tarjeta-avatar-b__img

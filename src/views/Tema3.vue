@@ -39,6 +39,7 @@
 
     p.mb-5 Este esquema puede fusionar los objetivos, los requisitos y las principales restricciones de participación; también destacar los campos de trabajo que serán más detallados con el modelo arquitectónico oficial. Su finalidad es involucrar rápidamente a las partes interesadas en una iniciativa de cambio para que todos los participantes entiendan que se intenta lograr la arquitectura de participación y cómo debe demostrar que este enfoque de solución tiene sentido, especialmente para las necesidades comerciales.
 
+    p.mb-5 Lo invitamos a ver el siguiente video para profundizar en la temática:
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
