@@ -11,7 +11,7 @@
 
     .row.mb-5
       .col-lg-9.mb-4.mb-md-0
-        p Estimado aprendiz, en este componente formativo se hablará sobre el mantenimiento del hardware y el software y su relación con los clientes, que son las empresas o personas que utilizan o adquieren un producto o servicio, de forma habitual u ocasional, se abordará el tema del soporte técnico a los usuarios y a partir de eso se desarrollará el tema de la mesa de ayuda como apoyo en la corrección de errores de programación de software y fallas de instalación de hardware. Además, se explorará la importancia de la medición y los diagramas como método para revisar la relación de la empresa con sus clientes, evaluar el grado de satisfacción, estudiar procesos y, también, interpretar información recopilada.
+        p Estimado aprendiz, en este componente formativo se hablará sobre el mantenimiento del #[em hardware] y el #[em software] y su relación con los clientes, que son las empresas o personas que utilizan o adquieren un producto o servicio, de forma habitual u ocasional, se abordará el tema del soporte técnico a los usuarios y a partir de eso se desarrollará el tema de la mesa de ayuda como apoyo en la corrección de errores de programación de #[em software] y fallas de instalación de #[em hardware]. Además, se explorará la importancia de la medición y los diagramas como método para revisar la relación de la empresa con sus clientes, evaluar el grado de satisfacción, estudiar procesos y, también, interpretar información recopilada.
 
         p
           strong En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.

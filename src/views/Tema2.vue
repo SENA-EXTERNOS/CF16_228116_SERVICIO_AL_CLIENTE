@@ -18,7 +18,7 @@
           .bloque-texto-g__texto.p-4
             p La satisfacción del cliente es fundamental para cualquier empresa, independientemente del tipo de negocio. De hecho, una mala experiencia de servicio hace que el 90% de los consumidores terminen su relación con una organización. Medir el servicio al cliente proporciona un punto de referencia que impulsa la prestación óptima del servicio, la lealtad y, en última instancia, el crecimiento y la rentabilidad de la marca. Hay muchas formas de medir el servicio, estas deben aplicarse teniendo en cuenta las necesidades y preferencias del cliente y las particularidades de cada empresa. En la medición del servicio al cliente se aplican una variedad de métodos para impulsar su negocio, incluidos <i>Mystery Shopper, Training, QuarteR y Rate Now</i>. Además, a medida que se esfuerzan por crear una experiencia de servicio única, se han implementado una variedad de métodos para ayudar a medir y mejorar la satisfacción del cliente, incluyendo el análisis de la competencia, el diseño del modelo de servicio, las aplicaciones de investigación de mercado y las encuestas.
 
-    h3 Tipo de instrumentos de medición
+    h3 Tipos de instrumentos de medición
 
     p.mb-5 Siguiendo con la atención al cliente, existen diferentes tipos de instrumentos de medición para la calidad de la atención prestada:
 

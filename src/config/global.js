@@ -204,7 +204,7 @@ export default {
       referencia:
         'Mintic. (julio de 2016). <i>Modelo de gestión it4+</i>. Ministerio de las TIC.',
       link:
-        'https://www.mintic.gov.co/arquitecturati/630/propertyvalues-8170_documento_pdf.pdf',
+        'https://mintic.gov.co/gestionti/615/w3-propertyvalue-6204.html?_noredirect=1',
     },
 
     {

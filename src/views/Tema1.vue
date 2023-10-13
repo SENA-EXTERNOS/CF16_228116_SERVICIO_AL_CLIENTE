@@ -38,8 +38,8 @@
             div(titulo="Soporte nivel 1")
               p.mb-0 También llamado <em>help desk</em> o mesa de ayuda. Es el responsable de recibir una cantidad de casos y reunir la mayor cantidad de información sobre lo ocurrido. En este punto se determina la raíz del problema y, en caso de no resolverlo, se manda al técnico adecuado. 
             div(titulo="Soporte nivel 2")
-              p Es el <i>service desk</i> (mesa de servicio) o soporte técnico. Se encarga de las tareas que se deben resolver y diagnosticar problemas más complejos que no se solucionarón en la mesa de ayuda. 
-              p.mb-0 Proporciona asistencia en temas especializados. Quienes realizan este tipo de soportes tienen por lo menos un año de experiencia en la mesa de ayuda y son profesionales en los temas de software, redes de comunicación y bases de datos. 
+              p Es el <i>service desk</i> (mesa de servicio) o soporte técnico. Se encarga de las tareas que se deben resolver y diagnosticar problemas más complejos que no se solucionaron en la mesa de ayuda. 
+              p.mb-0 Proporciona asistencia en temas especializados. Quienes realizan este tipo de soportes tienen por lo menos un año de experiencia en la mesa de ayuda y son profesionales en los temas de #[em software], redes de comunicación y bases de datos. 
             div(titulo="Soporte nivel 3")
               p.mb-0 Es el soporte de <em>back-end</em> y su responsabilidad es dar solución a problemas que requieren de un trabajo minucioso y más especializado, desde la configuración del <em>software</em> y la asistencia técnica en la instalación, hasta la puesta en marcha de nuevas instalaciones del producto y correcciones de fallas del sistema. Este soporte incluye a proveedores, fabricantes de <em>hardware</em> y <em>software</em>, así como a profesionales externos.
 
@@ -52,7 +52,7 @@
         .bg_1
           TabsA.color-primario.mb-5
             .tarjeta.tarj-bg_2.p-4(titulo="Informes de <br>atención")
-              p.mb-0 El trabajo principal de la mesa de ayuda es obtener informes de los clientes y su producto o servicio. Por medio de una plataforma digital, se registra al cliente en un ticket de soporte con el asunto del pedido. Lo mejor es darle una solución instantánea. Si esto no es posible, lo ayudará a rastrear su estado a tiempo.
+              p.mb-0 El trabajo principal de la mesa de ayuda es obtener informes de los clientes y su producto o servicio. Por medio de una plataforma digital, se registra al cliente en un #[em ticket] de soporte con el asunto del pedido. Lo mejor es darle una solución instantánea. Si esto no es posible, lo ayudará a rastrear su estado a tiempo.
             .tarjeta.tarj-bg_2.p-4.tb(titulo="Capacitación y <br>recomendaciones")
               p.mb-0 Una opción muy efectiva para aclarar las dudas de los clientes sobre el producto o servicio. En este punto se crea contenido a modo de guía para su correcto uso u operación. Esto puede ser a través de folletos, videos instructivos, tutoriales, artículos instructivos o cualquier otro material explicativo.
             .tarjeta.tarj-bg_2.p-4.tb_1(titulo="Soporte técnico")
