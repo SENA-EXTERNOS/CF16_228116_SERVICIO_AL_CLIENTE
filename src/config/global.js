@@ -225,6 +225,8 @@ export default {
     {
       referencia:
         'Pérez Sánchez, Fernando A. Conferencia Internacional de Ciencias Empresariales - <i>La filosofía del servicio al cliente orientada a Latinoamérica</i>. Colombia: INPEFRA Ingenieros.',
+      link:
+        'https://es.scribd.com/document/466468200/08-filosofia-del-servicio-al-cliente',
     },
     {
       referencia:
@@ -241,6 +243,8 @@ export default {
     {
       referencia:
         'Rodríguez J. (2006, agosto). Seminario La importancia del servicio al Cliente. Guatemarmol.',
+      link:
+        'https://www.emagister.com/uploads_courses/Comunidad_Emagister_42682_42681.pdf',
     },
   ],
   creditos: {
